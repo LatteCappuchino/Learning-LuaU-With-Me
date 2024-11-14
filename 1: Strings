@@ -40,3 +40,12 @@ print(string.lower(str))
 Output: hello world!
 ```
 string.lower Switches ALL the Uppercase letters into Lowercase letters.
+
+```
+local str="Hello World!"
+print(string.upper(str))
+Output:HELLO WORLD!
+```
+string.upper just Switches ALL The Lowercase letters to Uppercase Letters.
+
+That's all for lesson 1. Cya!!
